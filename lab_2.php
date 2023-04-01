@@ -10,7 +10,7 @@ echo "<br><hr><br>";
 parse_str("name=nasser&age=23",$output);
 echo $output['name']."<br>"; 
 echo $output['age']."<br><hr><br>";
-//second string bulit-in function Str_repeat()
+//third string bulit-in function Str_repeat()
 echo str_repeat("/"."hello"."/",13);
 echo "<br><hr><br>";
 
